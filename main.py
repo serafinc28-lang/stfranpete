@@ -1,2 +1,3 @@
-A = school
-  print('school')
+A = computer
+  print('computer')
+B = False
